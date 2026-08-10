@@ -1,10 +1,12 @@
-# Hi, I'm Vijay Kumar! 👋
+# Hi, I'm C Vijay Kumar 👋
 
-### 👨‍💻 Active Work
-- 🔭 I am currently developing a **Secure P2P Chat Project** in Python.
-- 🛠️ Tracking my application codebase in my private project repository.
+## 🔐 Cybersecurity Aspirant
 
-### ⚙️ Workspace Setup
-- **Environment:** VS Code (Fully Connected)
-- **Version Control:** Git & GitHub
+I'm a cybersecurity-focused student interested in
+network security, ethical hacking, secure systems,
+and cryptography.
+
+I enjoy learning by building practical security
+projects and understanding how systems can be
+secured against real-world threats.
 
